@@ -12,12 +12,11 @@ To write a python program to find the Eigenvalues and Eigen Vectors
 
 ## Program:
 
-<img width="1221" height="968" alt="Screenshot 2026-02-05 140052" src="https://github.com/user-attachments/assets/32646943-1831-4d01-a82a-1d0dc0640ffe" />
+<img width="1069" height="926" alt="Screenshot 2026-02-05 155948" src="https://github.com/user-attachments/assets/0b7900bf-4c5b-4c68-9a91-b547f3bb694e" />
 
 ## Output:
 
-<img width="872" height="239" alt="Screenshot 2026-02-05 140308" src="https://github.com/user-attachments/assets/a8149ed9-77de-41d4-a7fc-25ce30ca6b7f" />
-<img width="883" height="247" alt="Screenshot 2026-02-05 140348" src="https://github.com/user-attachments/assets/0b67eb8f-c1f1-4704-b303-c9942a7fda15" />
+<img width="1290" height="247" alt="Screenshot 2026-02-05 160006" src="https://github.com/user-attachments/assets/4b601526-d5b0-4a97-80df-c36846a50d1f" />
 
 
 ## Result:
