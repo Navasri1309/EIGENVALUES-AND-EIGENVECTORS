@@ -16,7 +16,8 @@ To write a python program to find the Eigenvalues and Eigen Vectors
 
 ## Output:
 
-<img width="872" height="239" alt="Screenshot 2026-02-05 140308" src="https://github.com/user-attachments/assets/a8149ed9-77de-41d4-a7fc-25ce30ca6b7f" /><img width="883" height="247" alt="Screenshot 2026-02-05 140348" src="https://github.com/user-attachments/assets/0b67eb8f-c1f1-4704-b303-c9942a7fda15" />
+<img width="872" height="239" alt="Screenshot 2026-02-05 140308" src="https://github.com/user-attachments/assets/a8149ed9-77de-41d4-a7fc-25ce30ca6b7f" />
+<img width="883" height="247" alt="Screenshot 2026-02-05 140348" src="https://github.com/user-attachments/assets/0b67eb8f-c1f1-4704-b303-c9942a7fda15" />
 
 
 ## Result:
