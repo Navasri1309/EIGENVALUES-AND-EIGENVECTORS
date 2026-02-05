@@ -24,6 +24,22 @@ To write a python program to find the Eigenvalues and Eigen Vectors
 Thus the Eigenvalue and Eigenvector is successfully solved using python program
 
 
+
+
+
+..
+
+
+
+
+
+
+
+
+
+
+
+
 ..
 
 
@@ -36,7 +52,18 @@ Thus the Eigenvalue and Eigenvector is successfully solved using python program
 
 
 
+
+
+
+
+
+
+
 ..
+
+
+
+
 
 
 
